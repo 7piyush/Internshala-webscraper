@@ -12,4 +12,4 @@ This scraper fetches you the
 
 It can also loop through as many pages as you want , details about libraries are in the file.
 
-**Note**: This scraper is working as of 25 February 2023 , and it might stop working if there is a change in structure in the website.
+**Note**: This scraper is working as of 12 March 2023 , and it might stop working if there is a change in structure in the website.
